@@ -9,7 +9,7 @@ class CfgPatches
 		magazines[] = {};
 		ammo[] = {};
 		requiredVersion = 0.1;
-		requiredAddons[] = {"OPTRE_Vehicles", "division7_core"};
+		requiredAddons[] = {"OPTRE_Vehicles", "OPTRE_Vehicles_Tracked", "division7_core"};
 	};
 };
 
